@@ -12,7 +12,6 @@ dist
 *.log
 
 # Environment variables
-.env
 
 # IDE files
 .vscode
@@ -27,3 +26,4 @@ coverage
 # Misc
 *.swp
 *.swo
+config.bat
